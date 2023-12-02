@@ -8,7 +8,7 @@
 
 
 ## Reporte tecnico como entrada de blog
-
+https://wonderful-pika-fc1b92.netlify.app/
 
 ## Notebooks
 
